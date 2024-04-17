@@ -1,4 +1,4 @@
-[![masterhead](https://getwallpapers.com/wallpaper/full/7/1/d/14952.jpg)](https://sakshi-gaikar.io)
+[![masterhead](https://api.deepai.org/job-view-file/ebbf2b74-e888-4ae1-bd7d-d76fc977409a/outputs/output.jpg)](https://sakshi-gaikar.io)
 <h1 align="center">Hi peeps👋, I'm Sakshi Gaikar</h1>
 <h3 align="center">A passionate developer💻from India</h3>
 <img align="right" alt="coding" width="400" src="https://images.deepai.org/art-image/7b2cbc5f265c49b69ad33c04882c1619/princess-animated-programmer-she-is-surrounded-by-an-.jpg">
