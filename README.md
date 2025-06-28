@@ -6,7 +6,7 @@
 - 🌱 I’m on a journey to turn data into clear stories and insights.
 - 💻 Always curious about coding, tech, and creative problem-solving.
 
-- 📬 Connect with me on [LinkedIn](www.linkedin.com/in/sakshigaikar)  
+- 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/sakshigaikar/)  
 
 
 
