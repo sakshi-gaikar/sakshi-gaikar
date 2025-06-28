@@ -1,11 +1,13 @@
 <h1 align="center">Hello peps, 👋, I'm Sakshi Gaikar</h1>
-<h3 align="center">Turning caffeine ☕ into code errors since 2022</h3>
+<h3 align="center">Aspiring Data Analyst passionate about data storytelling and visualization using Python, SQL, and Power BI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi-gaikar&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi-gaikar" /> </p>
 
-- 🌱 I’m currently learning **how to grow `while True:` loops 🌱♾️**
+- 🌱 I’m on a journey to turn data into clear stories and insights.
+- 💻 Always curious about coding, tech, and creative problem-solving.
 
-- 📫 How to reach me **sakshigaikar.1340@gmail.com**
+- 📬 Connect with me on [LinkedIn](www.linkedin.com/in/sakshigaikar)  
+
 
 
 <p align="left">
